@@ -1,2 +1,11 @@
-target
+# Rust files
+/target
 Cargo.lock
+**/*.rs.bk
+
+# IDEA files
+*.iml
+/.idea
+
+# env file
+.env
